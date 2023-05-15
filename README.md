@@ -10,6 +10,16 @@ The architecture for the reconstruction model is shown below:
 
 ![reconstruction model](readmeAssets/net.png)
 
+## Notebooks in the order:
+
+1. [GaitRecognition_ENC_DEC.ipynb](GaitRecognition_ENC_DEC.ipynb)
+1. [GaitRecognition_LSTM.ipynb](GaitRecognition_LSTM.ipynb)
+1. [GaitRecognition_Merge.ipynb](GaitRecognition_Merge.ipynb)
+1. [GaitRecognition_NormGEISaves.ipynb](GaitRecognition_NormGEISaves.ipynb)
+1. [GaitRecognition_OccGEISaves.ipynb](GaitRecognition_OccGEISaves.ipynb)
+1. [GaitRecognition_SSIM.ipynb](GaitRecognition_SSIM.ipynb)
+1. [GaitRecognition_RankedAccuracy.ipynb](GaitRecognition_RankedAccuracy.ipynb)
+
 ## TEST RESULTS:
 
 ### Training and Validation loss for the autoencoder network.
